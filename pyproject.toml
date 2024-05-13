@@ -2,13 +2,14 @@
 name = "windchiil-calculator"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["legendisstillhere <ohavb985@hsd.k12.or.us>"]
 readme = "README.md"
 packages = [{include = "windchiil_calculator"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-pyqt6 = "^6.6.1"
+pyqt6 = "^6.7.0"
+pyqt6-qt6 = "^6.7.0"
 
 
 [build-system]
